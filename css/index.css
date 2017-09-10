@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#swiper {
+    height: 100%;
+}
+.swiper-container {
+    height: 100%;
+}
+.swiper-slide {
+    height: 100%;
+}
+.swiper-wrapper {
+    height: 100%;
+}
+.slide1 {
+    background-color: green;
+}
+.slide2 {
+    background-color: #ffff00;
+}
+.slide3 {
+    background-color: red;
+}
+
+
+.touch {
+    width: 20px;
+    height: 20px;
+    background: red;
+}
